@@ -5,6 +5,7 @@ Repositorio com exemplo para as aula do curso de testes de performance com k6 mi
 - 🔹 Execução no AWS Code Build[branch main]
 - 🔹 Execução no Github Actions[branch action-config]
 
+----------
 
 Feito com ❤️ por [Aline Areda](https://github.com/AlineAreda) 😊  
 Você pode realizar o fork desse projeto para fins de estudo👨🏻‍💻
