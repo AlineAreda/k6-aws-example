@@ -2,8 +2,8 @@
 Exemplo de testes de performance com k6📚.
 
 Repositorio com exemplo para as aula do curso de testes de performance com k6 ministrados na E2E treinamentos: 
-- 🔹 Execução no AWS Code Build[branch main]
-- 🔹 Execução no Github Actions[branch action-config]
+- 🔹 Execução no AWS Code Build
+- 🔹 Execução no Github Actions
 
 ----------
 
